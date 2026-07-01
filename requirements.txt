@@ -7,3 +7,4 @@ smartapi-python==1.5.5
 logzero
 pyotp==2.9.0
 websocket-client
+matplotlib>=3.10
