@@ -1,0 +1,6 @@
+streamlit
+pandas
+pytz
+streamlit-autorefresh
+smartapi-python==1.5.5
+pyotp==2.9.0
